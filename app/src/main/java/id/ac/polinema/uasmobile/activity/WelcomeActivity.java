@@ -1,4 +1,6 @@
 package id.ac.polinema.uasmobile.activity;
 
-public class WelcomeActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class WelcomeActivity extends AppCompatActivity {
 }
