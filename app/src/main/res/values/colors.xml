@@ -6,6 +6,7 @@
     <color name="white">#FFFFFF</color>
     <color name="grey">#47565C</color>
     <color name="navy">#000627</color>
+    <color name="black">#000000</color>
 
     <!-- Screens background color-->
     <color name="bg_screen1">#f64c73</color>
